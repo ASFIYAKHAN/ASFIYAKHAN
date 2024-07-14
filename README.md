@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ASFIYA KHAN</h1>
-<h3 align="center">A passionate computer science student</h3>
+<h3 align="center"> computer science student</h3>
 
 - 📫 How to reach me **www.linkedin.com/in/asfiya-khan-b0b0ba270**
 
